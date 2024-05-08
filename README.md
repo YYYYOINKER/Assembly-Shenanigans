@@ -6,6 +6,14 @@ This repository, "Assembly-Shenanigans", is where I document my journey learning
 ## Motivation
 Learning assembly is like peering under the hood of your computer. It's about understanding how things really work at the most fundamental level. This journey is not just about learning to code in assembly but about gaining insights that are not visible with higher-level languages.
 
+## Running the Code
+To run the assembly code:
+1. **Assemble the code**:
+   ```bash
+   nasm -f elf32 hello.asm -o hello.o
+   ld -m elf_i386 -s -o hello hello.o
+   ./hello'''
+
 ## What's Inside
 This repository will contain:
 - **Examples**: Simple programs written in x86 assembly that illustrate basic concepts.
