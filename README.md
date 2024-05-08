@@ -1,2 +1,28 @@
 # Assembly-Shenanigans
-Pain for wisdom
+
+## About
+This repository, "Assembly-Shenanigans", is where I document my journey learning x86 assembly language. The process is challenging but fulfilling, and each line of code written is a step toward deeper understanding.
+
+## Motivation
+Learning assembly is like peering under the hood of your computer. It's about understanding how things really work at the most fundamental level. This journey is not just about learning to code in assembly but about gaining insights that are not visible with higher-level languages.
+
+## What's Inside
+This repository will contain:
+- **Examples**: Simple programs written in x86 assembly that illustrate basic concepts.
+- **Notes**: My personal notes and insights gained through the process.
+- **Resources**: Links to tutorials, books, and other resources that I find helpful.
+
+## Learning Resources
+Here are some of the resources I've found useful on my journey:
+- [TutorialsPoint - Assembly Programming](https://www.tutorialspoint.com/assembly_programming/)
+- [NASM Documentation](https://www.nasm.us/docs.php)
+
+## Author
+- [YYYYOINKER](https://github.com/YYYYOINKER) - Feel free to follow my progress!
+
+## Acknowledgements
+Thanks to all the community contributors and the numerous tutorial creators who have made their knowledge available. Special thanks to the folks at Stack Overflow, without whom troubleshooting would be a nightmare.
+
+---
+
+"Pain for wisdom" - embracing the challenges of learning something as intricate as assembly language is a pathway to profound understanding.
