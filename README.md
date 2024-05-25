@@ -26,6 +26,7 @@ This repository will contain:
 Here are some of the resources I've found useful on my journey:
 - [TutorialsPoint - Assembly Programming](https://www.tutorialspoint.com/assembly_programming/)
 - [NASM Documentation](https://www.nasm.us/docs.php)
+- [YouTube Playlist - Olive Stem Assembly Tutorials](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB&ab_channel=OliveStem)
 
 ## Author
 - [YYYYOINKER](https://github.com/YYYYOINKER) - Feel free to follow my progress!
@@ -35,4 +36,3 @@ Thanks to all the community contributors and the numerous tutorial creators who 
 
 ---
 
-"Pain for wisdom" - embracing the challenges of learning something as intricate as assembly language is a pathway to profound understanding.
