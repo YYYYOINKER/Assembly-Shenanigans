@@ -3,7 +3,7 @@ global _start
 section .text
 
 _start:
-  mov rax, 1        ; write(
+  mov rax, 1        ; writes(
   mov rdi, 1        ;   STDOUT_FILENO,
   mov rsi, msg      ;   "Hello, world!\n",
   mov rdx, msglen   ;   sizeof("Hello, world!\n")
